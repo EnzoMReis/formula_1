@@ -1,6 +1,6 @@
-Programa Jogo de Carrinho
+# Programa Jogo de Carrinho
 
-O programa contém 4 arquivos, sendo:
+### O programa contém 4 arquivos, sendo:
 
 **Arquivo principal:** *main.js*
 
